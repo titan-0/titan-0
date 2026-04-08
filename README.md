@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titan-0" alt="titan-0" /></a> </p>
 
-- 🔭 I’m currently working on [quickpick](https://github.com/titan-0/pbl)
 
-- 🌱 I’m currently learning **Advanced backend concepts**
-
-- 📫 How to reach me **harshal147258@gmail.com**
-
-- ⚡ Fun fact **would like to talk about anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
